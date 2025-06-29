@@ -4160,5 +4160,7 @@ Build,Version,Codename,Branch,Platforms
 2949642,23.01,V23.01,//eve/branches/release/V23.01,macOS
 2950966,23.01,V23.01,//eve/branches/release/V23.01,macOS
 2951147,21.03,2025-GLOBAL-PLEX-MARKET,//eve/branches/sandbox/2025-GLOBAL-PLEX-MARKET,macOS
-2948915,22.02,EVE-RELEASE,//shanghai-projects/eve/branches/release/RELEASE,
-2948913,22.02,EVE-RELEASE,//shanghai-projects/eve-infinity/branches/release/RELEASE,
+NetEase-2948915,22.02,EVE-RELEASE,//shanghai-projects/eve/branches/release/RELEASE,
+NetEase-2948913,22.02,EVE-RELEASE,//shanghai-projects/eve-infinity/branches/release/RELEASE,
+2950890,21.03,2025-GLOBAL-PLEX-MARKET-2,//eve/branches/sandbox/2025-GLOBAL-PLEX-MARKET-2,macOS
+Frontier-2947412,20.04,FRONTIER,//eve-frontier/branches/release/RELEASE,macOS
